@@ -1,0 +1,27 @@
+Assignment 8
+
+Q. Extract bijective phrases 
+
+
+1. Statistics 
+
+NUM_LINES 
+NUM_SRC_TOKENS
+NUM_TGT_TOKENS
+MULTIPLE_TRANSLATIONS_IN_SRC_TO_TGT
+MULTIPLE_TRANSLATIONS_IN_TGT_TO_SRC
+NUM_TOKENS_EQUAL_IN_LINE
+NUM_TOKENS_INEQUAL_IN_LINE
+
+2. Details
+
+MULTIPLE_TRANSLATIONS_IN_SRC_TO_TGT Valentine
+MULTIPLE_TRANSLATIONS_IN_SRC_TO_TGT ('밸런타인', 3, 확률, (4797, 'Bobby Valentine', '바비 밸런타인'))
+MULTIPLE_TRANSLATIONS_IN_SRC_TO_TGT ('발렌타인', 1, 확률, (9662, 'Dori Valentine', '도리 발렌타인'))
+MULTIPLE_TRANSLATIONS_IN_SRC_TO_TGT ('발렌틴', 1, 확률, (22104, 'Karen Valentine', '카렌 발렌틴'))
+
+
+MULTIPLE_TRANSLATIONS_IN_TGT_TO_SRC 솔
+MULTIPLE_TRANSLATIONS_IN_TGT_TO_SRC ('Soul', 1, 확률, (8810, 'David Soul', '데이비드 솔'))
+MULTIPLE_TRANSLATIONS_IN_TGT_TO_SRC ('Sol', 2, 확률, (40956, 'Sol Bamba', '솔 밤바'))
+MULTIPLE_TRANSLATIONS_IN_TGT_TO_SRC ('Saul', 2, 확률 (39096, 'Saul Perlmutter', '솔 펄머터'))
